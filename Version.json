@@ -1,5 +1,6 @@
 {
   "wersja": "1.0",
   "wersja_silnika": "21.1.10",
-  "url_silnika": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.10/neoforge-21.1.10-installer.jar"
+  "url_silnika": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.10/neoforge-21.1.10-installer.jar",
+  "id_wersji_mc": "neoforge-21.1.10"
 }
